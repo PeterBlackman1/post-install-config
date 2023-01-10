@@ -31,6 +31,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
+
+![Screen Shot 2023-01-08 at 7 16 49 PM (2)](https://user-images.githubusercontent.com/120864279/211681509-26c1c77e-6dfd-4886-9c65-9d831d59749a.png)
+
+
+<p>
   
 https://user-images.githubusercontent.com/120864279/211126422-5093385b-e1d2-4aba-9c23-a60fde912fc0.mp4
 
