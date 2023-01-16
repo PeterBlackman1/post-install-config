@@ -34,8 +34,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![Screen Shot 2023-01-08 at 7 16 49 PM (2)](https://user-images.githubusercontent.com/120864279/211681509-26c1c77e-6dfd-4886-9c65-9d831d59749a.png)
 
-
-<p>
+Seeting up email for how I want to handle mail accounts. In here I can assign where the emails go by assigning whether im going to use POP3 or IMAP. I can also configure how I want my outgoing mail to go out with setting that allow me to assign a signature.
+<p
   
 https://user-images.githubusercontent.com/120864279/211126422-5093385b-e1d2-4aba-9c23-a60fde912fc0.mp4
 
