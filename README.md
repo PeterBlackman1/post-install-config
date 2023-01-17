@@ -51,7 +51,12 @@ Assigning roles and permissions to any user agent or worker thats created in the
  ![Screen Shot 2023-01-17 at 12 18 02 AM (2)](https://user-images.githubusercontent.com/120864279/212823973-89ffad65-a0b9-43e3-a6f0-e3d50a9a7e9a.png)
 
  Creating the list of agents that will be working in osTicket. Her I can assign agents to which department that they will be working under. 
+
 </p>
+
+![Screen Shot 2023-01-17 at 12 49 38 AM (2)](https://user-images.githubusercontent.com/120864279/212829160-4ff00b48-2b88-4023-a0d7-63d8f73345bf.png)
+
+Here I created a list of customers that have a account with company. I can configure the end-user's account to change the password after a certain amount o time for when it's their first time logging into their account.
 <br />
 
 ![Screen Shot 2023-01-17 at 12 29 05 AM (2)](https://user-images.githubusercontent.com/120864279/212825665-d7a306ea-0dad-4fd1-ac76-1327e65a4c13.png)
