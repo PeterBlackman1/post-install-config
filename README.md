@@ -45,7 +45,7 @@ Assigning roles and permissions to any user agent or worker thats created in the
 
 ![Screen Shot 2023-01-16 at 1 00 00 PM (2)](https://user-images.githubusercontent.com/120864279/212749923-b4a19e70-e16a-4186-8094-bdf454f05257.png)
 
-
+Creating department to route the tickets to. I assign each department seperatly; therefore, when a ticket is sent that is for a certain department it can be filtered properly. 
 <p>
  
  ![Screen Shot 2023-01-17 at 12 18 02 AM (2)](https://user-images.githubusercontent.com/120864279/212823973-89ffad65-a0b9-43e3-a6f0-e3d50a9a7e9a.png)
