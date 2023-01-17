@@ -47,13 +47,14 @@ Assigning roles and permissions to any user agent or worker thats created in the
 
 
 <p>
-  
+ 
+ ![Screen Shot 2023-01-17 at 12 18 02 AM (2)](https://user-images.githubusercontent.com/120864279/212823973-89ffad65-a0b9-43e3-a6f0-e3d50a9a7e9a.png)
+
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -61,7 +62,6 @@ Assigning roles and permissions to any user agent or worker thats created in the
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
