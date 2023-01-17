@@ -62,11 +62,17 @@ Here I created a list of customers that have a account with company. I can confi
 ![Screen Shot 2023-01-17 at 12 29 05 AM (2)](https://user-images.githubusercontent.com/120864279/212825665-d7a306ea-0dad-4fd1-ac76-1327e65a4c13.png)
 
 Creating and assigning helpdesk topics the end-user's to chose from when making a ticket. When an end-user creates a ticket they can decide which topic fits the issue that is present at hand.
+
+<p>
+
+![Screen Shot 2023-01-17 at 1 02 51 AM (2)](https://user-images.githubusercontent.com/120864279/212831447-df9252b4-9e48-45df-9c27-6bdce0d2cc79.png)
+ 
+I made 3 different SLA plans to provide to length of time that it should take for there to be a response or a closed ticket. They can also help filter the tickets to which department it belongs to.
 <p>
   
- ![Screen Shot 2023-01-17 at 12 40 30 AM (2)](https://user-images.githubusercontent.com/120864279/212827574-40e796f2-1886-407c-add8-e44328b1f43d.png)
+![Screen Shot 2023-01-17 at 12 40 30 AM (2)](https://user-images.githubusercontent.com/120864279/212827574-40e796f2-1886-407c-add8-e44328b1f43d.png)
  
-  Here im creating the settings that I'll be using at my helpdesk. 
+ Here im creating the settings that I'll be using at my helpdesk. 
 </p>
 <p>
 
