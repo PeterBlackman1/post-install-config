@@ -54,6 +54,9 @@ Assigning roles and permissions to any user agent or worker thats created in the
 </p>
 <br />
 
+![Screen Shot 2023-01-17 at 12 29 05 AM (2)](https://user-images.githubusercontent.com/120864279/212825665-d7a306ea-0dad-4fd1-ac76-1327e65a4c13.png)
+
+Creating and assigning helpdesk topics the end-user's to chose from when making a ticket. When an end-user creates a ticket they can decide which topic fits the issue that is present at hand.
 <p>
 </p>
 <p>
