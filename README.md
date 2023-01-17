@@ -72,7 +72,7 @@ I made 3 different SLA plans to provide to length of time that it should take fo
   
 ![Screen Shot 2023-01-17 at 12 40 30 AM (2)](https://user-images.githubusercontent.com/120864279/212827574-40e796f2-1886-407c-add8-e44328b1f43d.png)
  
- Here im creating the settings that I'll be using at my helpdesk. 
+ Here im creating the settings that I'll be using at my helpdesk. Here I can determine if my helpdesk status is onlone or offline and how I want my tickets processed.
 </p>
 <p>
 
