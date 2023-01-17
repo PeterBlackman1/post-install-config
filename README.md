@@ -58,6 +58,10 @@ Assigning roles and permissions to any user agent or worker thats created in the
 
 Creating and assigning helpdesk topics the end-user's to chose from when making a ticket. When an end-user creates a ticket they can decide which topic fits the issue that is present at hand.
 <p>
+  
+ ![Screen Shot 2023-01-17 at 12 40 30 AM (2)](https://user-images.githubusercontent.com/120864279/212827574-40e796f2-1886-407c-add8-e44328b1f43d.png)
+ 
+  Here im creating the settings that I'll be using at my helpdesk. 
 </p>
 <p>
 
